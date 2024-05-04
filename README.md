@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://github.com/Athulkrishna-S/Athulkrishna-S/blob/main/Untitled.png" alt="Profile Image" />
+  <img src="https://github.com/Athulkrishna-S/Athulkrishna-S/blob/main/Untitled.png" alt="Profile Image" style="margin-bottom: 20px;" />
 </div>
 
- # 🚀 Enthusiastic BTech Computer Science student with a fervor for all things cutting-edge! 
+<div align="center">
+  <p style="margin-top: 20px;">🚀 Passionate BTech CS student diving into the realms of AI, ML, and Backend Dev!</p>
+</div>
 
-From Machine Learning to AI, GenAI, RAG, and Backend Dev, I thrive on the excitement of exploring the tech universe. 🌟 Dreaming big and aiming high, I'm on a mission to carve out a stellar career path in AI/ML or Data Science. 
+From ML algorithms to crafting robust backends, I'm on a quest to unravel the tech cosmos. Dreaming big, aiming high, aspiring for a career in AI/ML or Data Science. Let's innovate together! 🌟💻
 
-Join me on this exhilarating journey as we unravel the mysteries of innovation together! 🤖💡
-
-# #FutureTech #AIEnthusiast #DataScienceDreamer
+<div align="center">
+#GenAI #AIEnthusiast #DataScienceDreamer
+</div>
